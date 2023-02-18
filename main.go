@@ -1,8 +1,9 @@
 package main
 
 import (
-	"02-POO/course"
 	"fmt"
+
+	"github.com/BboyGalaxy/02-POO/course"
 )
 
 func main() {

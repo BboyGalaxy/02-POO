@@ -1,3 +1,3 @@
-module 02-POO/course
+module github.com/BboyGalaxy/02-POO
 
 go 1.20
